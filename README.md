@@ -40,7 +40,7 @@ Foi criado com 2 tabelas para o Banco de Dados sendo de Usuário e Tarefas, com 
 
 ```bash
   # Enter directory
-  $ cd PRUPC
+  $ cd CRUD_Tarefas
 ```
 
 ```bash
