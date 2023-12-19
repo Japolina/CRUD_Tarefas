@@ -79,8 +79,8 @@ $dados = json_decode(file_get_contents('http://api.hgbrasil.com/weather/?cid='
                         <th>
                             <?php echo $row['tarefa']; ?>
                         </th>
-                        <th> <a href="./form/form-alterar.php?id=<?php echo $row['id']; ?>"><img src="../img/lapis.png" alt=""></a>
-                            <a href="./form/form-delete.php?id=<?php echo $row['id']; ?>"><img src="../img/excluir.png" alt=""></a>
+                        <th> <a href="../form/form-alterar.php?id=<?php echo $row['id']; ?>"><img src="../img/lapis.png" alt=""></a>
+                            <a href="../form/form-delete.php?id=<?php echo $row['id']; ?>"><img src="../img/excluir.png" alt=""></a>
                         </th>
                     </tr>
 
