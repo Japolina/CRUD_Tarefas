@@ -7,25 +7,28 @@ O site foi desenvolvido para criar uma conexão API.
 
 ## 📚 Qual foi a base do site?
 
-Foi criado com 2 tabelas para o Banco de Dados sendo de Usuário e Tarefas, com perfil de Admin incluso. Contendo linguagem de programação de HTML, CSS e PHP.
+Foi criado com 2 tabelas para o Banco de Dados sendo de Usuário e Tarefas, com perfil de Admin incluso. Contendo linguagem de programação PHP e CSS.
 -  Como foi a base do site em Mockup.
 
-
-  
+-  Tela de Login
 <img src="/CRUD/img/GitHub/Login-1.jpg"/>
 
-- Como será as telas de Login, Cadastro e Agendamento.
+- Dashboard de Tarefas para o Usuário
+<img src="/CRUD/img/GitHub/Login-6.jpg"/>
 
-<img src=""/>
+- Dashboard de Tarefas Adm
+<img src="/CRUD/img/GitHub/Login-3.jpg"/>
 
-- Como foi a construção no Banco de Dados
+- Tabela de Usuários cadastrados para acesso de Adm
+<img src="/CRUD/img/GitHub/Login-2.jpg"/>
 
-<img src=""/>
+- Tela de Inserir tarefa, tanto para Usuário quanto Adm
+<img src="/CRUD/img/GitHub/Login-4.jpg"/>
 
-
+- Tela de Alterar tarefa, com acesso apenas de Adm
+<img src="/CRUD/img/GitHub/Login-5.jpg"/>
 
 ## 🔨 Ferramentas
-- **HTML**
 - **CSS**
 - **PHP**
 
