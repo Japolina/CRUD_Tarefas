@@ -1,4 +1,4 @@
-# [Desenvolvendo] - CRUD_Tarefas
+# CRUD_Tarefas
 
 ## 📘 Sobre
 
