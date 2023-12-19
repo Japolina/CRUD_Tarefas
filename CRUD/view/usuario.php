@@ -48,7 +48,7 @@ $dados = json_decode(file_get_contents('http://api.hgbrasil.com/weather/?cid='
         <div class="containerTabela">
             <h2 class="form__title">USUÁRIOS</h2>
             <div class="botoes">
-                <a href="../form/form-inserirUsu.php"><button class="btn2">Inserir Usuário<img src="../img/inserir.png" alt=""></button></a>
+                <a href="../form/form-cadastroAdm.php"><button class="btn2">Inserir Usuário<img src="../img/inserir.png" alt=""></button></a>
                 <a href="../view/dashboard-adm.php"><button class="btn2">Voltar <img src="../img/voltar.png" alt=""></button></a>
             </div>
 
