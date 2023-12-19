@@ -13,7 +13,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $adm = $_POST['admin'];
 
     $user->registerAdm($username, $password, $confirm_password, $sexo, $adm);
-    header("refresh:0.1;url= ../view/dashboard-adm.php");
+    header("refresh:0.1;url= ../view/usuario.php");
 }
 ?>
 
