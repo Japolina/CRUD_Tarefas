@@ -14,19 +14,19 @@ Foi criado com 2 tabelas para o Banco de Dados sendo de Usuário e Tarefas, com 
 <img width="30%" src="/CRUD/img/GitHub/Login-1.jpg"/>
 
 - Dashboard de Tarefas para o Usuário
-<img src="/CRUD/img/GitHub/Login-6.jpg"/>
+<img width="30%" src="/CRUD/img/GitHub/Login-6.jpg"/>
 
 - Dashboard de Tarefas Adm
-<img src="/CRUD/img/GitHub/Login-3.jpg"/>
+<img width="30%" src="/CRUD/img/GitHub/Login-3.jpg"/>
 
 - Tabela de Usuários cadastrados para acesso de Adm
-<img src="/CRUD/img/GitHub/Login-2.jpg"/>
+<img width="30%" src="/CRUD/img/GitHub/Login-2.jpg"/>
 
 - Tela de Inserir tarefa, tanto para Usuário quanto Adm
-<img src="/CRUD/img/GitHub/Login-4.jpg"/>
+<img width="30%" src="/CRUD/img/GitHub/Login-4.jpg"/>
 
 - Tela de Alterar tarefa, com acesso apenas de Adm
-<img src="/CRUD/img/GitHub/Login-5.jpg"/>
+<img width="30%" src="/CRUD/img/GitHub/Login-5.jpg"/>
 
 - Como foi a consrtrução do Banco de Dados
 <img src="/CRUD/img/GitHub/Banco.png"/>
