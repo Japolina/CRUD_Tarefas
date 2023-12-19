@@ -11,7 +11,7 @@ Foi criado com 2 tabelas para o Banco de Dados sendo de Usuário e Tarefas, com 
 -  Como foi a base do site em Mockup.
 
 -  Tela de Login
-<img src="/CRUD/img/GitHub/Login-1.jpg"/>
+<img width="30%" src="/CRUD/img/GitHub/Login-1.jpg"/>
 
 - Dashboard de Tarefas para o Usuário
 <img src="/CRUD/img/GitHub/Login-6.jpg"/>
