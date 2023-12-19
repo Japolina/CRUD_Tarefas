@@ -8,10 +8,39 @@ $tarefa = new Tarefa($conn);
 $data = $tarefa->readEdes($_SESSION['id']);
 
 
-$cid = 'BRXX3553'; // CID da sua cidade, encontre a sua em http://hgbrasil.com/weather
+$chave = '81140443';
+$ip = $_SERVER["REMOTE_ADDR"];
 
-$dados = json_decode(file_get_contents('http://api.hgbrasil.com/weather/?cid='
-    . $cid . '&format=json'), true); // Recebe os dados da API
+$dados = hg_request(array(
+    'cid' => 'BRXX3553', // CID da sua cidade, encontre a sua em http://hgbrasil.com/weather
+), $chave);
+if (!isset($dados)) {
+    echo 'Descomente um dos exemplos para visualizar.';
+    die();
+}
+
+function hg_request($parametros, $chave = null, $endpoint = 'weather')
+{
+    $url = 'http://api.hgbrasil.com/' . $endpoint . '/?format=json&';
+
+    if (is_array($parametros)) {
+
+        if (!empty($chave))
+            $parametros = array_merge($parametros, array('key' => $chave));
+
+        foreach ($parametros as $key => $value) {
+            if (empty($value))
+                continue;
+            $url .= $key . '=' . urlencode($value) . '&';
+        }
+
+        $resposta = file_get_contents(substr($url, 0, -1));
+
+        return json_decode($resposta, true);
+    } else {
+        return false;
+    }
+}
 ?>
 
 
