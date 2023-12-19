@@ -31,13 +31,15 @@ Foi criado com 2 tabelas para o Banco de Dados sendo de Usuário e Tarefas, com 
 - Como foi a consrtrução do Banco de Dados
 <img src="/CRUD/img/GitHub/Banco.png"/>
 
-**
+
+**********************************************************************
 ## Já tera um usuário Adm no banco, a senha padrão é "666".
 
 Dump do Banco 
 <a href="/CRUD/dump_mysql/bdprofin.sql">Link para baixar o Banco.</a>
 
-**
+*********************************************************************
+
 
 
 ## 🔨 Ferramentas
