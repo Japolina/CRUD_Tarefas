@@ -12,7 +12,7 @@ Foi criado com 2 tabelas para o Banco de Dados sendo de Usuário e Tarefas, com 
 
 
   
-<img src="./CRUD/img/GitHub/Login-1"/>
+<img src="/CRUD/img/GitHub/Login-1"/>
 
 - Como será as telas de Login, Cadastro e Agendamento.
 
