@@ -7,42 +7,46 @@ O site foi desenvolvido para criar uma conexão API.
 
 ## 📚 Qual foi a base do site?
 
-Foi criado com 2 tabelas para o Banco de Dados sendo de Usuário e Tarefas, com perfil de Admin incluso. Contendo linguagem de programação PHP e CSS.
+Foi criado com 2 tabelas no Banco de Dados MySQL sendo de Usuário e Tarefas, com perfil de Admin incluso. Contendo linguagem de programação PHP.
 -  Como foi a base do site em Mockup.
 
 -  Tela de Login
-<img src="/CRUD/img/GitHub/Login-1.jpg"/>
+<img width="30%" src="/CRUD/img/GitHub/Login-1.jpg"/>
 
 - Dashboard de Tarefas para o Usuário
-<img src="/CRUD/img/GitHub/Login-6.jpg"/>
+<img width="30%" src="/CRUD/img/GitHub/Login-6.jpg"/>
 
 - Dashboard de Tarefas Adm
-<img src="/CRUD/img/GitHub/Login-3.jpg"/>
+<img width="30%" src="/CRUD/img/GitHub/Login-3.jpg"/>
 
 - Tabela de Usuários cadastrados para acesso de Adm
-<img src="/CRUD/img/GitHub/Login-2.jpg"/>
+<img width="30%" src="/CRUD/img/GitHub/Login-2.jpg"/>
 
 - Tela de Inserir tarefa, tanto para Usuário quanto Adm
-<img src="/CRUD/img/GitHub/Login-4.jpg"/>
+<img width="30%" src="/CRUD/img/GitHub/Login-4.jpg"/>
 
 - Tela de Alterar tarefa, com acesso apenas de Adm
-<img src="/CRUD/img/GitHub/Login-5.jpg"/>
+<img width="30%" src="/CRUD/img/GitHub/Login-5.jpg"/>
 
 - Como foi a consrtrução do Banco de Dados
 <img src="/CRUD/img/GitHub/Banco.png"/>
 
-**
+
+**********************************************************************
 ## Já tera um usuário Adm no banco, a senha padrão é "666".
 
 Dump do Banco 
 <a href="/CRUD/dump_mysql/bdprofin.sql">Link para baixar o Banco.</a>
 
-**
+*********************************************************************
+
 
 
 ## 🔨 Ferramentas
 - **CSS**
 - **PHP**
+- **HTML**
+- **MYSQL**
 
 
 
