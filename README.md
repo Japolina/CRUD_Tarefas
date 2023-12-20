@@ -7,7 +7,7 @@ O site foi desenvolvido para criar uma conexão API.
 
 ## 📚 Qual foi a base do site?
 
-Foi criado com 2 tabelas no Banco de Dados MySQL sendo de Usuário e Tarefas, com perfil de Admin incluso. Contendo linguagem de programação PHP.
+Foi criado com 2 tabelas no Banco de Dados MySQL sendo de Usuário e Tarefas, com perfil de Admin incluso. Usado API de clima e temperatura para à cidade. Contendo linguagem de programação PHP.
 -  Como foi a base do site em Mockup.
 
 -  Tela de Login
